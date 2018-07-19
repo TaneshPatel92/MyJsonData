@@ -3,12 +3,8 @@
     {
       "id": 1,
       "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "Tanesh"
-  },
-  "users": [
+    },
+    "users": [
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -240,5 +236,8 @@
     }
   }
 ]
-
+  ],
+  "profile": {
+    "name": "Tanesh"
+  }
 }

@@ -1,16 +1,12 @@
 {
-  "posts": [
+  
+  "users": [
     {
       "id": 1,
-      "title": "hello"
-    },
-    "users": [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
       "city": "Gwenborough",

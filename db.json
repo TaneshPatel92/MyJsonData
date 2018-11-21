@@ -13,7 +13,6 @@
       "user_email" : "taneshkumar.patel@vmokshagroup.com" 
     }
   ],
-  {
   "artists": [
     { 
         "id": 1,
@@ -66,8 +65,7 @@
         ],
         "genre":"Rock"
     }
-  ]
-},
+  ],
   "profile": {
     "name": "Tanesh"
   }

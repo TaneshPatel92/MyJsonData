@@ -1,5 +1,5 @@
 {
-    "artists": [
+  "artists": [
     { 
         "id": 1,
         "name": "Jimi Hendrix",
@@ -51,8 +51,5 @@
         ],
         "genre":"Rock"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

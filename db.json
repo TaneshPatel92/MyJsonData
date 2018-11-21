@@ -1,19 +1,11 @@
 {
-  "googleUser": [
+  "posts": [
     {
-      "id": "012",
-      "name": "Tanesh",
-      "access_token" : "ya29.Gl0MBpzZXysN1VD1VYDpT1wGDzPg_eciVJDUWaeiW6SKwOxSGFpV4WDRprC8pl_wHn1voBKMTxE8Zuqyvm6kXO2-OaanJdOFQ2wqZzE1INM97GgPthmPDJqjAtOSY3A",
-      "user_email" : "taneshkumar.patel@vmokshagroup.com" 
-    },
-    {
-      "id": "013",
-      "name": "Tanesh",
-      "access_token" : "ya29.Gl0IBrtILlUKjS5ghkgukCsa_uExobMIW--MCxGV7qvOyfmPQ4zUtS1H27q8pKZpzP5FvAyZH459NwMPXiVWcIgU9cB6tSE2T-LNivLzmh7mMhOxRgQFQloZsxs8V4xkNlqsQ",
-      "user_email" : "taneshkumar.patel@vmokshagroup.com" 
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "Tanesh"
+    "name": "typicode"
   }
 }
